@@ -1,6 +1,6 @@
 from winning.lattice import convolve_two, mean_of_density, convolve_many, skew_normal_density
 
-
+#Fahad Ur Rehman
 def test_two():
     density1 = [0, 0, 0, 0, 0.1, 0.4, 0.2, 0.1, 0.1, 0.1, 0, 0, 0, 0, 0]
     density2 = [0, 0, 0, 0.1, 0.15, 0.35, 0.15, 0.15, 0.1, 0, 0, 0, 0]
